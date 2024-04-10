@@ -1,1 +1,1 @@
-lorem ipsum
+bash nedokáže spracovať také množstvo súborov :(
